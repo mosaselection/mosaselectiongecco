@@ -8,13 +8,10 @@ In Search-based Software Engineering (SBSE), users typically select a set of MOS
 
 ## Repository content
 This repository contains: 
-* Raw data about agreement results (result of step A2)
-* R script for statistical analysis of the raw agreement data (for performing steps A3-A8)
+* Raw data about preferences results (results of steps 4 and 5)
+* R script for statistical analysis of the preferences (steps 4-5)
 * Results of statistical analysis
-* Java code for producing *Single Representative* (SR) and *Minimum Representative Set* (MRS) for:
-  * *All*: without any specification of MOSA or SBSE problem characteristics
-  * *SingleAlgorithm*: for one specific MOSA
-  * *PairAlgorithms*: for a given pair of MOSAs
+
   
 
 
