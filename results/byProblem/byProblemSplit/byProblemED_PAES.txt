@@ -1,0 +1,12 @@
+NameOfProblem	Percentage
+RA	0.2
+TS	0
+TRA	0.2
+RP	0
+TM	0
+TP1	0.4
+TP2_1	0.6
+TP2_2	0.8
+TP2_3	0
+RM	0.25
+ITO	0
